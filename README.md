@@ -19,7 +19,7 @@
 
 MusicApp is a web application that brings music lovers together by allowing them to upload, share, and enjoy unique versions or remixes of their favorite songs. Whether you're a creator or a listener, MusicApp makes discovering and sharing music fun, interactive, and social.
 
-[👀Visit MusicApp here!](https://link-to-your-website-or-app.com)
+[👀Visit MusicApp here!](https://github.com/bojidarapartenova/MusicApp.git)
 
 ## 📝 Currently Learning:
 

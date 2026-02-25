@@ -15,8 +15,6 @@
 
 ## 📁 Featured Project: MusicApp
 
-<img width="800" alt="Screenshot 2025-09-11 at 16 16 36" src="https://github.com/user-attachments/assets/6a588abb-e2a9-4abd-896f-6a4efc3155d4" />
-
 MusicApp is a web application that brings music lovers together by allowing them to upload, share, and enjoy unique versions or remixes of their favorite songs. Whether you're a creator or a listener, MusicApp makes discovering and sharing music fun, interactive, and social.
 
 [👀Visit MusicApp here!](https://github.com/bojidarapartenova/MusicApp.git)

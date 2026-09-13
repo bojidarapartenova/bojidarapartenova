@@ -15,11 +15,11 @@
   
 </p>
 
-## 📁 Featured Project: MusicApp
-
-MusicApp is a web application that brings music lovers together by allowing them to upload, share, and enjoy unique versions or remixes of their favorite songs. Whether you're a creator or a listener, MusicApp makes discovering and sharing music fun, interactive, and social.
+## 📁 Featured Projects:
 
 [👀Visit MusicApp here!](https://github.com/bojidarapartenova/MusicApp.git)
+
+[👀Visit Social Blogging Platform here!](https://github.com/bojidarapartenova/social-platform.git)
 
 ## 📝 Currently Learning:
 
